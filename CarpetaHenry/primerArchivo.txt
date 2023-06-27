@@ -1,0 +1,3 @@
+Este archivo corresponde al homework del modulo2.
+
+El objetivo es sincronizar este archivo con un repositorio remoto en GitHub.
